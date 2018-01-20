@@ -31,7 +31,7 @@ PORT=COM4
 BAUD=115200
 
 # avrdude configuration file path 
-CONFIG='\Development\Laboratory\Arduino\arduino-1.8.5\hardware\tools\avr\etc\avrdude.conf'
+CONFIG='\Development\arduino-1.8.5\hardware\tools\avr\etc\avrdude.conf'
 # sudo user for linux system
 SUDO=
 
